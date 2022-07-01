@@ -32,7 +32,7 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1> congratulation RAJESH </h1>
+   <h1> congratulation meeru maaripoyaru sir </h1>
 
   
    </form>
